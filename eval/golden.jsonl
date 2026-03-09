@@ -1,0 +1,5 @@
+{"id":"q1","question":"What does RAG stand for?","must_include":["Retrieval Augmented Generation"],"must_cite":["rag_test_document.pdf_p1_c0"]}
+{"id":"q2","question":"List the core steps of a RAG pipeline.","must_include":["chunk","embed","retrieve","generate"],"must_cite":["rag_test_document.pdf_p1_c0"]}
+{"id":"q3","question":"What is hybrid retrieval?","must_include":["BM25","vector","combine"],"must_cite":["rag_test_document.pdf_p2_c0"]}
+{"id":"q4","question":"When should the system refuse to answer?","must_include":["I don't know"],"must_cite":["rag_test_document.pdf_p3_c0"]}
+{"id":"q5","question":"What is BM25 used for in retrieval?","must_include":["keyword","exact"],"must_cite":["rag_test_document.pdf_p2_c0"]}
